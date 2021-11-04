@@ -1,6 +1,7 @@
 {
   "jwtPrivateKey": "unsecureKey",
-  "db": "mongodb+srv://vidlyuser:G3jeYvJIpz4XC6Ks@vidly.ippnq.mongodb.net/Vidly?retryWrites=true&w=majority",
+  "db": "mongodb://vidlyuser:lBw3YcAZIJQfvIP6@vidly-shard-00-00.ippnq.mongodb.net:27017,vidly-shard-00-01.ippnq.mongodb.net:27017,vidly-shard-00-02.ippnq.mongodb.net:27017/Vidly?ssl=true&replicaSet=atlas-5z0jg7-shard-0&authSource=admin&retryWrites=true&w=majority",
   "port": "3900",
   "requiresAuth": true
 }
+//lBw3YcAZIJQfvIP6
